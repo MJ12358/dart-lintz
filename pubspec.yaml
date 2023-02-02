@@ -1,0 +1,10 @@
+name: dart_lintz
+description: A very strict set of Dart lint rules.
+version: 1.0.0-dev
+repository: https://github.com/mj12358/dart-lintz
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+# NOTE: Code is not allowed in this package. Do not add dependencies.
+# dependencies:
+# dev_dependencies:
