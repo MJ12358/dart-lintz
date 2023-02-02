@@ -1,6 +1,6 @@
 name: dart_lintz
 description: A very strict set of Dart lint rules.
-version: 1.0.0-dev
+version: 1.0.1-dev
 repository: https://github.com/mj12358/dart-lintz
 
 environment:
