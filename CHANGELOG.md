@@ -1,5 +1,12 @@
 # Dart Lintz
 
+## 1.2.0
+
+- Add `type_literal_in_constant_pattern`.
+- Add `unnecessary_breaks`.
+- Add `use_super_parameters`.
+- Depreciate `prefer_equal_for_default_values`.
+
 ## 1.1.0
 
 - Update dependency constraints.

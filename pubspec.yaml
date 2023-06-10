@@ -1,10 +1,10 @@
 name: dart_lintz
 description: A very strict set of Dart lint rules. Inspired by the likes of Java and Apex.
-version: 1.1.0
+version: 1.2.0
 repository: https://github.com/mj12358/dart-lintz
 
 environment:
-  sdk: ">=2.19.6 <4.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 # NOTE: Code is not allowed in this package. Do not add dependencies.
 # dependencies:
 # dev_dependencies:
