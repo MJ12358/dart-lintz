@@ -17,3 +17,9 @@ dart_lintz: ^1.2.0
 ```yaml
 include: package:dart_lintz/dart_lintz.yaml
 ```
+
+## How to fix lints
+
+```dart
+dart fix --apply --code <the lint to fix>
+```
