@@ -1,5 +1,9 @@
 # Dart Lintz
 
+## 1.2.1
+
+- Update pubspec.
+
 ## 1.2.0
 
 - Add `type_literal_in_constant_pattern`.
