@@ -9,7 +9,8 @@
 - Add this to your `pubspec.yaml`
 
 ```yaml
-dart_lintz: ^1.2.0
+dev_dependencies:
+  dart_lintz: ^1.2.1
 ```
 
 - Add this to your `analysis_options.yaml`
