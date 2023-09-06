@@ -21,6 +21,7 @@ include: package:dart_lintz/dart_lintz.yaml
 
 ## How to fix lints
 
-```dart
+```shell
+dart fix --dry-run
 dart fix --apply --code <the lint to fix>
 ```
