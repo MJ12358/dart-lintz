@@ -1,5 +1,9 @@
 # Dart Lintz
 
+## 1.2.2
+
+- Update analyser exclude list.
+
 ## 1.2.1
 
 - Update pubspec.
