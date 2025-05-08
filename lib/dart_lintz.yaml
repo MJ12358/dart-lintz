@@ -6,14 +6,16 @@
 
 anaylzer:
   exclude:
-    - "build/**"
-    - "lib/**.g.dart"
-    - "lib/**.freezed.dart"
-    - "**/*.g.dart"
-    - "**/*.freezed.dart"
-    - "test/.test_coverage.dart"
-    - "bin/cache/**"
-    - "lib/generated_plugin_registrant.dart"
+    [
+      "build/**",
+      "lib/**.g.dart",
+      "lib/**.freezed.dart",
+      "**/*.g.dart",
+      "**/*.freezed.dart",
+      "test/.test_coverage.dart",
+      "bin/cache/**",
+      "lib/generated_plugin_registrant.dart",
+    ]
 
   strong-mode:
     implicit-casts: false

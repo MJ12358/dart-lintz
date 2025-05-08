@@ -1,8 +1,12 @@
 # Dart Lintz
 
+## 1.2.3
+
+- Update analyzer exclude list.
+
 ## 1.2.2
 
-- Update analyser exclude list.
+- Update analyzer exclude list.
 
 ## 1.2.1
 

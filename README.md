@@ -10,7 +10,7 @@
 
 ```yaml
 dev_dependencies:
-  dart_lintz: ^1.2.2
+  dart_lintz: ^1.2.3
 ```
 
 - Add this to your `analysis_options.yaml`
