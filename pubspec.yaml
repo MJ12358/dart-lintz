@@ -5,7 +5,10 @@ repository: https://github.com/mj12358/dart-lintz
 funding:
   - https://www.buymeacoffee.com/mj12358
 topics:
+  - analysis
+  - code-style
   - dart
+  - lint
   - lints
 
 environment:
