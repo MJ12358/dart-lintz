@@ -1,5 +1,9 @@
 # Dart Lintz
 
+## [1.2.4]
+
+- Add thumbnail to pub.dev.
+
 ## [1.2.3]
 
 - Update analyzer exclude list.

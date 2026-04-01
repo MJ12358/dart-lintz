@@ -1,7 +1,10 @@
 name: dart_lintz
 description: A very strict set of Dart lint rules. Inspired by the likes of Java and Apex.
-version: 1.2.3
+version: 1.2.4
 repository: https://github.com/mj12358/dart-lintz
+screenshots:
+  - description: Dart Lintz Thumbnail
+    path: assets/thumbnail.png
 funding:
   - https://www.buymeacoffee.com/mj12358
 topics:
