@@ -1,5 +1,11 @@
 # Dart Lintz
 
+## [2.0.0]
+
+- Add new rules.
+- Remove depreciated rules.
+- Fix link to "linter-rules/all".
+
 ## [1.2.4]
 
 - Add thumbnail to pub.dev.

@@ -6,12 +6,7 @@
 
 ## How to enable these lints
 
-- Add this to your `pubspec.yaml`
-
-```yaml
-dev_dependencies:
-  dart_lintz: ^1.2.3
-```
+- [Install](https://pub.dev/packages/dart_lintz/install)
 
 - Add this to your `analysis_options.yaml`
 
