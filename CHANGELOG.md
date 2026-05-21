@@ -1,5 +1,9 @@
 # Dart Lintz
 
+## [2.0.1]
+
+- Fix conflicting/redundant rules.
+
 ## [2.0.0]
 
 - Add new rules.

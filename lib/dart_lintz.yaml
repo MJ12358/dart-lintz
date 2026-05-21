@@ -145,7 +145,10 @@ linter:
     # - diagnostic_describe_all_properties
 
     - directives_ordering
-    - discarded_futures
+
+    # This is useful for things like cascade expressions and dialogs etc...
+    # - discarded_futures
+
     - do_not_use_environment
     # - document_ignores // not useful for us
     - empty_catches
@@ -269,16 +272,21 @@ linter:
     - slash_for_doc_comments
     - sort_child_properties_last
 
-    # It forces you to put properties after ALL named constructors and factories.
     # Personal preference
+    # It forces you to put properties after ALL named constructors and factories.
     # - sort_constructors_first
 
     - sort_pub_dependencies
     - sort_unnamed_constructors_first
     - specify_nonobvious_local_variable_types
     - specify_nonobvious_property_types
-    - strict_top_level_inference
-    - switch_on_type
+
+    # This conflicts with "avoid_types_on_closure_parameters"
+    # - strict_top_level_inference
+
+    # Personal preference
+    # Sometimes we want to use a switch statement for type checking
+    # - switch_on_type
     - test_types_in_equals
     - throw_in_finally
     - tighten_type_of_initializing_formals
@@ -306,7 +314,10 @@ linter:
     - unnecessary_library_name
     - unnecessary_new
     - unnecessary_null_aware_assignments
-    - unnecessary_null_aware_operator_on_extension_on_nullable
+
+    # This conflicts with "prefer_null_aware_operators"
+    # - unnecessary_null_aware_operator_on_extension_on_nullable
+
     - unnecessary_null_checks
     - unnecessary_null_in_if_null_operators
     - unnecessary_nullable_for_final_variable_declarations
