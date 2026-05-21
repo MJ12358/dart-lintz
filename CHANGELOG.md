@@ -1,5 +1,9 @@
 # Dart Lintz
 
+## [2.0.2]
+
+- Fix a lint issue in libraries.
+
 ## [2.0.1]
 
 - Fix conflicting/redundant rules.
