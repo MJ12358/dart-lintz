@@ -37,6 +37,11 @@ anaylzer:
     # I use a VSCode extension for this.
     todo: ignore
 
+formatter:
+  # Disable the new formatter behaviour and 
+  # give you control over trailing commas.
+  trailing_commas: preserve
+
 linter:
   rules:
     - always_declare_return_types

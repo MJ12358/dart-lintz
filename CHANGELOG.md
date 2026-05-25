@@ -1,5 +1,10 @@
 # Dart Lintz
 
+## [2.1.0]
+
+- Add "formatter" section.
+- Preserve trailing commas.
+
 ## [2.0.2]
 
 - Fix a lint issue in libraries.
