@@ -1,5 +1,9 @@
 # Dart Lintz
 
+## [2.2.0]
+
+- Add "language" section to remove deprecated "strong-mode".
+
 ## [2.1.0]
 
 - Add "formatter" section.
